@@ -820,12 +820,12 @@ body {
 
 .step-content h4 {
   margin-bottom: 8px;
-  color: #ffffff;
+  color: #000000;
   font-weight: 600;
 }
 
 .step-content p {
-  color: #e5e2e2;
+  color: #4e4e4e;
   margin: 0;
   font-weight: 500;
 }
@@ -854,12 +854,12 @@ body {
 
 .service-item h4 {
   margin-bottom: 5px;
-  color: #ffffff;
+  color: #000000;
   font-weight: 600;
 }
 
 .service-item p {
-  color: #e5e2e2;
+  color: #4e4e4e;
   margin: 0;
   font-weight: 500;
 }
